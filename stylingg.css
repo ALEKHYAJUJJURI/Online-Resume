@@ -1,0 +1,32 @@
+body {
+    background-color:azure;
+    padding-left: 20px;
+
+}
+header {
+    color:brown;
+    text-align: center;
+    font-style: italic;
+}
+h2 {
+    color: blueviolet;
+    background-color:lightgray;
+    width:40%;
+}
+.image {
+    width: 160px;
+    border-top-right-radius: 80px;
+    border-bottom-right-radius: 80px;
+    border-top-left-radius: 20px;
+    border-bottom-left-radius: 20px;
+}
+div {
+    column-count: 2;
+}
+.objective {
+    padding-top: 60px;
+}
+p{
+    color: black;
+}
+
